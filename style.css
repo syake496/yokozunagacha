@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 40px;
+  background: #fafafa;
+}
+
+button {
+  font-size: 40px;
+  padding: 10px 20px;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+  background: yellow;
+  color: black;
+}
+
+#result {
+  margin-top: 30px;
+  font-size: 24px;
+  white-space: pre-line;
+}
